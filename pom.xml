@@ -6,7 +6,7 @@
   <version>0.1.0-SNAPSHOT</version>
   <name>javierweiss/powerstructuresmodel</name>
   <description>FIXME: my new application.</description>
-  <url>https://github.com/javierweiss/powerstructuresmodel</url>
+  <url>https://github.com/javierrweiss/powerstructuresmodel</url>
   <licenses>
     <license>
       <name>Eclipse Public License</name>
@@ -19,9 +19,9 @@
     </developer>
   </developers>
   <scm>
-    <url>https://github.com/javierweiss/powerstructuresmodel</url>
-    <connection>scm:git:git://github.com/javierweiss/powerstructuresmodel.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/javierweiss/powerstructuresmodel.git</developerConnection>
+    <url>https://github.com/javierrweiss/powerstructuresmodel</url>
+    <connection>scm:git:git://github.com/javierrweiss/powerstructuresmodel.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/javierrweiss/powerstructuresmodel.git</developerConnection>
     <tag>v0.1.0-SNAPSHOT</tag>
   </scm>
   <dependencies>
