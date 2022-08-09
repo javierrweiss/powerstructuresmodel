@@ -17,6 +17,7 @@
 .settings
 .socket-repl-port
 .sw*
+gitkey
 .vscode
 *.class
 *.jar
