@@ -2,6 +2,7 @@
 .classpath
 .clj-kondo/.cache
 .cpcache
+.clerk/cache
 .eastwood
 .factorypath
 .hg/
