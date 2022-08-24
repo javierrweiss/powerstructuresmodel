@@ -7,6 +7,10 @@
   <name>javierweiss/powerstructuresmodel</name>
   <description>FIXME: my new application.</description>
   <url>https://github.com/javierrweiss/powerstructuresmodel</url>
+  <properties>
+    <maven.compiler.target>17</maven.compiler.target>
+    <maven.compiler.source>17</maven.compiler.source>
+  </properties>
   <licenses>
     <license>
       <name>Eclipse Public License</name>
@@ -28,7 +32,7 @@
     <dependency>
       <groupId>org.clojure</groupId>
       <artifactId>clojure</artifactId>
-      <version>1.10.3</version>
+      <version>1.11.1</version>
     </dependency>
   </dependencies>
   <build>
