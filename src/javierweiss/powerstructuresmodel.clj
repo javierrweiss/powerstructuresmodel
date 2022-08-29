@@ -41,9 +41,10 @@
 ^:clerk/hide
 (comment
   (clerk/serve! {:browse? true :watch-paths ["src"]})
-  (clerk/show! "src/javierweiss/powerstructuresmodel.clj"))
-
-
+  (clerk/show! "src/javierweiss/powerstructuresmodel.clj")
+  )
+(clerk/md (slurp "src/javierweiss/powerstructuresmodel.clj"))
+(clerk/md "### Holaaaa")
 
 (def experiment-1 "resources/power_structure_emergence_model_experimento_popularidad.csv")
 
