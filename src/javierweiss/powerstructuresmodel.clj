@@ -45,6 +45,8 @@
   )
 (clerk/md (slurp "src/javierweiss/powerstructuresmodel.clj"))
 (clerk/md "### Holaaaa")
+(clerk/md "(def valor \"Z\")")
+
 
 (def experiment-1 "resources/power_structure_emergence_model_experimento_popularidad.csv")
 
